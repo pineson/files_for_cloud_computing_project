@@ -1,4 +1,3 @@
-```php 
 <?php 
 $servername = "mysql-container"; // Use the MySQL container name 
 $username = "webuser"; 
