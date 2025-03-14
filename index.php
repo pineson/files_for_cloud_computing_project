@@ -1,4 +1,3 @@
-```php 
 <?php 
 session_start(); 
 $servername = "mysql-container"; // Use the MySQL container name 
